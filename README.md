@@ -1,7 +1,9 @@
 # funbox_test_assignment
 
 Тестовое задание для funbox.ru.
+
 Описание задания [task/](https://github.com/AndyPlo/funbox_test_assignment/blob/main/task/task.pdf).
+
 **Задание находится в процессе выполнения.**
 
 ## Используемые технологии
